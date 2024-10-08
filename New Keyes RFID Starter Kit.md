@@ -10072,7 +10072,7 @@ Automatic features and security are two crucial aspects of modern smart home sys
 
 
 
-#### **Working Principle**
+#### Working Principle
 
 In this project, the RFID module will be connected to the Arduino to read the UID of an RFID card. When the RFID reader detects a specific RFID card, the Arduino will control the servo motor to rotate and turn the LED light on or off. The core idea is to implement switch control of specific devices when the RFID card is successfully verified.
 
