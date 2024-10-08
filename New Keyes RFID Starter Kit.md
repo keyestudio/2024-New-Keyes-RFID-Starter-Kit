@@ -4,7 +4,7 @@
 
  
  
-**Before starting the project, please click the link to download the code, library files, and PDF tutorial.**
+**Before starting the projects, please click the link to download the code, library files, and PDF tutorial.**
 
 <https://github.com/keyestudio/KT0280-New-Keyes-RFID-Starter-Kit/blob/main/tutorial.rar>
 
