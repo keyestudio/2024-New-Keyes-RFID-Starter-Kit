@@ -1,6 +1,11 @@
 # KT0280 Keyes New RFID Starter Kit
 
  ![](media/8c0d84819364932ba97e32d40fe0b580.jpeg)
+
+ 
+ 
+**Before starting the project, please click the link to download the code, library files, and PDF tutorial.
+<https://github.com/keyestudio/KT0280-New-Keyes-RFID-Starter-Kit/blob/main/tutorial.rar>**
 ## 1.Introduction
 
 Keyes RFID Starter Kit is an Arduino-compatible development kit designed for beginners and electronics enthusiasts. This kit contains multiple sensors and modules to help you get started quickly and practice a variety of basic and intermediate electronics projects.
