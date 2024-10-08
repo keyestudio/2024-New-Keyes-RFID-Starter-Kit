@@ -7214,7 +7214,7 @@ The project works by detecting the environment temperature and receiving remote 
 
 3\. **IR Remote Control and Receiver**: The IR receiver module receives signals from the remote, allowing the user to manually control the fan's on/off function.
 
-### **Wiring Diagram**
+#### **Wiring Diagram**
 
 1\. Use a 1KΩ resistor to connect the base of the TIP120 to the digital pin D5 on the Arduino. Connect the collector to one end of the motor and the emitter to GND.
 
@@ -7226,7 +7226,7 @@ The project works by detecting the environment temperature and receiving remote 
 
 ![](media/b03659b62e2bc1ac67816b3290f5fd19.png)
 
-### **Sample Code**
+#### **Sample Code**
 
 ```cpp
 
