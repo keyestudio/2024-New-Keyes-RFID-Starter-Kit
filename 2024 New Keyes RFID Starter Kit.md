@@ -191,7 +191,7 @@ Then open “LaunchPad” → “CH34xVCPDriver” → Install.
 
 Then the installation will be successful.
 
-![IMG_266](media/7e52a1fe7974d968a26dd286455c3dd8.png)
+![](media/7e52a1fe7974d968a26dd286455c3dd8.png)
 
 When inserting the CH340 control board into the USB port, open System Report -> Hardware ->USB. On the right is USB Device Tree. If the USB device is working properly, you will find a device whose “Vendor ID” is [0x1a86].
 
